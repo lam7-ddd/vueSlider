@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://source.unsplash.com/random/800x600?nature",
+    "comment": "美しい自然の風景"
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://source.unsplash.com/random/800x600?city",
+    "comment": "活気あふれる都市の景色"
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://source.unsplash.com/random/800x600?food",
+    "comment": "美味しそうな料理"
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://source.unsplash.com/random/800x600?technology",
+    "comment": "最新のテクノロジー"
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://source.unsplash.com/random/800x600?animals",
+    "comment": "かわいい動物たち"
+  }
+]
